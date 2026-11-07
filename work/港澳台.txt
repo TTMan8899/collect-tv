@@ -59,8 +59,8 @@
 凤凰中文,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052575.ts
 凤凰中文,http://218.206.193.218:8888/hls/66/index.m3u8
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
@@ -469,8 +469,6 @@ NOW新闻,http://45.192.97.170:8880/play/622.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新闻,https://www.youtube.com/watch?v=nwA45bxgs8Y
-TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-TVBS新闻,http://74.91.26.218:82/live/tvbsxw.m3u8
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
@@ -490,8 +488,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS亚洲,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500947.ts
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
@@ -582,7 +580,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://www.youtube.com/watch?v=ZSKIiW54rtQ
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 三立新闻,https://tv.iill.top/4gtv/229
@@ -610,9 +607,9 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 台视新闻,https://www.youtube.com/watch?v=mstSghWRZJc
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视新闻,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269922.ts
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TYYf7Q&tk=SLK5QjnsRiya
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -655,7 +652,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 中天新闻,http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34817
 中天新闻,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
@@ -700,7 +696,6 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 中天亚洲,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3884&tk=e640d0a1bf70
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中视新闻,https://test.946985.filegear-sg.me/proxy/12cee55b2872c75a
@@ -743,7 +738,7 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
 民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://rihou.cc:555/tv/民视新闻
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
@@ -751,7 +746,7 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 民视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=3dTB8k&tk=SLK5QjnsRiya
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
@@ -915,14 +910,13 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 东森电影,http://rihou.cc:555/tv/东森电影
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 亚洲新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5397&tk=e503191f8e20
 亚洲新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1818&tk=e640d0a1bf70
 华视新闻,https://www.youtube.com/watch?v=yBL-3VU-F8Q
-华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 华视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
 华视新闻,https://test.946985.filegear-sg.me/proxy/db5de5d676197e66
 华视新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=3pLPQH&tk=SLK5QjnsRiya
