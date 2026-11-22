@@ -395,7 +395,6 @@ NOW新闻,http://app.kds666.top:5566/api.php?id=16&s=2
 NOW新闻,https://fast.hidns.vip/163189/now
 NOW新闻,https://cdn.123.rr.kg/163189/now
 NOW新闻,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
-NOW新闻,http://45.192.97.170:8880/play/622.m3u8
 NOW财经,http://app.kds666.top:5566/api.php?id=17&s=2
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -751,8 +750,8 @@ TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB72208834
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
